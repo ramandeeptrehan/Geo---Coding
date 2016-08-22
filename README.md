@@ -1,5 +1,5 @@
-# Author1: Ramandeep Singh
-#Author2: Lalit Dudheria
+# Author_1: Ramandeep Singh
+#Author_2: Lalit Dudheria
 
 # Geo-Coding
 Exploiting Google Maps Javascript API to make cool stuff
